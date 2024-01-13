@@ -1,8 +1,25 @@
-h3{
+h1{
     color: darkred;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 img{
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
+}
+a{
+    text-decoration: none;
+    font-weight: 900;
+}
+nav{
+    margin-top: 20px;
+}
+.dragon{
+    background-color: rgb(84, 209, 128);
+    width: 15vw;
+    padding: 30px;
+}
+.snow{
+    background-color: rgb(104, 98, 181);
+    width: 15vw;
+    padding: 20px;
 }
